@@ -3,10 +3,10 @@
 	<info>
 		<name>Gnoll</name>
 		<update version="1.0.0">
-			<file name="gnoll.index" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index" />
+			<file name="gnoll.index" url="https://raw.githubusercontent.com/wobblycake/GNOLL-RACE/master/gnoll.index" />
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file1.xml" />
+		<file name="gnoll-race.xml" url="https://raw.githubusercontent.com/wobblycake/GNOLL-RACE/master/gnoll-race.xml" />
 	</files>
 </index>
